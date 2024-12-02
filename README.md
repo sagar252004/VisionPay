@@ -2,7 +2,7 @@
 **Automated Customer Recognition and Payment System**
 
 ## Project Title
-Smart Retail AI: Automated Customer Recognition and Payment System
+VisionPay: Automated Customer Recognition and Payment System
 
 ## Objectives
 - **Enhance customer convenience** by automating the shopping and payment process.
